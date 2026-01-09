@@ -39,7 +39,7 @@ header nav ul li a {
 .btn {
     background-color: #469165;
     padding: 16px 20px;
-     border: 1px solid #469165;
+    border: 1px solid #469165;
     border-radius: 4px;
     font-weight: 600;
     color: #ffffff;
@@ -365,6 +365,7 @@ footer {
 }
 hr{
     width: 85%;
+    max-width: 1360px;
     margin: 0 auto;
     color: #E5E7EB;
     margin-bottom:30px;
