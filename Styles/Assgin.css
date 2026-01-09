@@ -241,6 +241,7 @@ img {
     color: #469165;
     line-height: 20px;
     margin-bottom: 16px;
+    text-transform: uppercase;
 }
 .brain-content h2 {
     font-size: 48px;
