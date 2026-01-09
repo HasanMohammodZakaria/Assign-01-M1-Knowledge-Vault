@@ -56,7 +56,6 @@ header nav ul li a {
 .banner-section {
     height: 675px;
     background-image: url('../assets/hero-bg.png');
-    /* background-position: bottom center ; */
     background-size: cover;
     padding: 70px 120px 134px;
     text-align: center;
@@ -87,7 +86,6 @@ img {
     margin-top: 16px;
     margin-bottom:16px;
 }
-
 .banner-section p {
     font-size: 18px;
     line-height: 36px;
@@ -149,7 +147,6 @@ img {
     width: 85%;
     max-width: 1360px;
     margin: 0 auto;
-    /* text-align: center; */
     padding-top : 70px
 
 }
@@ -179,10 +176,6 @@ img {
     padding: 60px 20px;
     box-shadow: 0 10px 30px  rgba(0,0,0,0.06);
     border-radius: 8px;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
     z-index: -1;
 }
 .img-container {
@@ -281,10 +274,9 @@ img {
     text-align: center;
 }
 .task-content {
-    /* width: 1280px; */
     background-color: #F7F6F2;
     padding: 80px 40px;
-
+    border-radius: 12px;
 }
 .task-content h2 {
     font-size: 40px;
@@ -325,9 +317,6 @@ img {
     border: 1px solid #469165;
     color:#000000;
 }
-/* .btn-get img:hover {
-    color: #000;
-} */
 .task-content p {
     line-height: 20px;
     color: #627382;
@@ -347,10 +336,6 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
-/* .logo-container{
-    width: 350px;
-    text-align: left;
-} */
 .logo-container img {
     width: 139px;
     height: 60px;
