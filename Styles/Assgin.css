@@ -19,7 +19,7 @@ header nav {
     justify-content: space-between;
     align-items: center;
 }
-header nav .logo {
+header nav .logo img{
     width: 139px;
     height: 60px;
 }
