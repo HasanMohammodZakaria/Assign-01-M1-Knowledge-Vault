@@ -39,9 +39,9 @@ header nav ul li a {
     color: #000000;
 }
 .btn {
-    background-color: #469165;
+    background-color: #30B868;
     padding: 16px 20px;
-    border: 1px solid #469165;
+    border: 1px solid #30B868;
     border-radius: 4px;
     font-weight: 600;
     color: #ffffff;
@@ -49,7 +49,7 @@ header nav ul li a {
 }
 .btn:hover {
     background-color: transparent;
-    border: 1px solid #469165;
+    border: 1px solid #30B868;
     color: #000000;
 }
 
@@ -75,7 +75,7 @@ header nav ul li a {
 }
 .head-para {
    font-weight: 500;
-   color: #469165;
+   color: #30B868;
 }
 img {
     width: 24px;
@@ -107,10 +107,10 @@ img {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: #469165;
+    background-color: #30B868;
     font-weight: 600;
     padding: 16px 20px;
-    border: 1px solid #469165;
+    border: 1px solid #30B868;
     color: #ffffff;
     border-radius: 4px;
 }
@@ -141,8 +141,8 @@ img {
     height: 20px;
 }
 .btn-works:hover {
-    background-color: #469165;
-    border: 1px solid #469165;
+    background-color: #30B868;
+    border: 1px solid #30B868;
 }
 
 /* notes section style */
@@ -238,7 +238,7 @@ img {
 }
 .brain-content h4 {
     font-weight: 500;
-    color: #469165;
+    color: #30B868;
     line-height: 20px;
     margin-bottom: 16px;
     text-transform: uppercase;
@@ -304,10 +304,10 @@ img {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: #469165;
+    background-color: #30B868;
     font-weight: 600;
     padding: 16px 20px;
-    border: 1px solid #469165;
+    border: 1px solid #30B868;
     color: #ffffff;
     border-radius: 4px;
     margin-bottom: 16px;
@@ -319,7 +319,7 @@ img {
 }
 .task-btn-container .btn-get:hover {
     background-color: transparent;
-    border: 1px solid #469165;
+    border: 1px solid #30B868;
     color:#000000;
 }
 .task-content p {
